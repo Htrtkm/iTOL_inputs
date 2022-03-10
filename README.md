@@ -1,5 +1,5 @@
 # iTOL_inputs
-this is repository for sharing itol input files.
+this is repository for sharing itol input files (sample).
 
 # explanation for sample files
 1. bac.treefile  
